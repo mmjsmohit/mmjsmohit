@@ -19,7 +19,7 @@ Glad you stumbled upon my GitHub Profile. Whether someone told you to refer to o
 <p>
   <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=mmjsmohit&theme=react-dark" />
   
-| ![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=mmjsmohit&show_icons=true&theme=tokyonight) | ![Yuvraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmjsmohit&theme=tokyonight) |
+| [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmjsmohit&bg_color=000000&color=29c748&line=9e4c4c&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmjsmohit&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mmjsmohit&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 </p>
